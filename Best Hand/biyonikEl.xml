@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="10/29/20||19:47:29" using="Simscape Multibody Link Version 7.2" from="SolidWorks 27.5.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="biyonikEl" uid="biyonikEl" version="475">
+<AssemblyFile name="biyonikEl.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="linki1_-6" uid="linki1_-6" entityUid="linki1_*:*Varsayilan">
+<Transform>
+<Rotation>-0.9993908270190961 0 0.034899496702496591 0.034899496702496702 0 0.99939082701909587 0 1 0</Rotation>
+<Translation>0.047422563495189737 0.13286028035379183 0.00090478969973604734</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="ElAya-1" uid="ElAya-1" grounded="true" entityUid="ElAya*:*Varsayilan">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.059472358404624975 0.1054230508655931 0.00066077387623585289</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki3_-3" uid="linki3_-3" entityUid="linki3_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909576 0.0012082082257638357 -0.0348785765617112 -0.034899496702502079 -0.034598556771474047 0.99879175256869401 0 0.99940056038718239 0.034619646124501566</Rotation>
+<Translation>-0.01711046456730728 0.20936507896792675 0.009082349277242812</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki1_-10" uid="linki1_-10" entityUid="linki1_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909587 0 -0.034899496702504182 -0.034899496702504085 0 0.99939082701909565 0 1 0</Rotation>
+<Translation>-0.014443732999009369 0.13299987834060173 0.00091073933311247926</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki4_-3" uid="linki4_-3" entityUid="linki4_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99756405025982475 0.0022218411930403454 -0.069721080391273671 -0.069756473744115949 -0.03177380937709727 0.99705790173312103 -5.8294420760874171e-16 0.99949261551018009 0.031851397781246675</Rotation>
+<Translation>-0.052507346832378995 0.23390754330983168 0.0074465792416318578</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki1_-11" uid="linki1_-11" entityUid="linki1_*:*Varsayilan">
+<Transform>
+<Rotation>-1.0000000000000002 0 -2.2898349882893854e-16 -1.2490009027033011e-16 0 1 0 1 0</Rotation>
+<Translation>0.01649063359405209 0.13847001945828399 0.00091062597050968301</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki1_-9" uid="linki1_-9" entityUid="linki1_*:*Varsayilan">
+<Transform>
+<Rotation>-0.9975640502598242 0 -0.069756473744128827 -0.069756473744128744 -1.7129345340567783e-16 0.99756405025982398 0 1 2.0280861413680157e-16</Rotation>
+<Translation>-0.04499406515465397 0.12646260954397773 0.00091006682277701878</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki2_-2" uid="linki2_-2" entityUid="linki2_*:*Varsayilan">
+<Transform>
+<Rotation>-0.9975640502598242 0.0079852034347021195 -0.069297923167449482 -0.069756473744128675 -0.11419372931161983 0.9910064715009127 0 0.99342640830210016 0.11447257876010761</Rotation>
+<Translation>-0.04783349144772471 0.16706829732171302 0.006061506559264968</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="basLinki-1" uid="basLinki-1" entityUid="basLinki*:*Varsayilan">
+<Transform>
+<Rotation>0.96210346624208787 -0.18773429650970988 -0.19776944698047833 -0.19410859406638431 0.037876217716871621 -0.98024856329455323 0.1915170330663345 0.9814892898271832 6.1351504329490877e-16</Rotation>
+<Translation>0.041336869638164117 0.04670154216945413 -0.0002870648502080568</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki1_-8" uid="linki1_-8" entityUid="linki1_*:*Varsayilan">
+<Transform>
+<Rotation>0.23155626172535551 0.14400908964624598 0.96210346624208676 0.21065327858342306 0.95809553277928716 -0.19410859406638534 -0.94974043500202376 0.247617309911148 0.19151703306633874</Rotation>
+<Translation>0.099201128325816887 0.025529268734492013 0.0094877667194207642</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki2_-3" uid="linki2_-3" entityUid="linki2_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909576 0.0057766079361822832 -0.034418100918552089 -0.034899496702502732 -0.16542040797660662 0.98560545542055755 0 0.98620622560679705 0.16552123904319765</Rotation>
+<Translation>-0.015852972390201635 0.17335521448304486 0.0083593687823394804</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki4_-5" uid="linki4_-5" entityUid="linki4_*:*Varsayilan">
+<Transform>
+<Rotation>-1 0 -1.1594989316785559e-16 -1.1672585880854709e-16 -0.033012883537549845 0.9994549262075485 0 0.9994549262075485 0.033012883537549845</Rotation>
+<Translation>0.016490633594052104 0.24527612731940585 0.014946962839606465</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki4_-1" uid="linki4_-1" entityUid="linki4_*:*Varsayilan">
+<Transform>
+<Rotation>-0.9993908270190961 -0.0085045756291643269 0.033847408519041847 0.034899496702489596 -0.24353918178053122 0.9692629633219163 -3.3079243999736876e-16 0.9698537720352679 0.24368762970032518</Rotation>
+<Translation>0.05163156443139235 0.23906344305705207 0.019197507769902707</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki3_-1" uid="linki3_-1" entityUid="linki3_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909598 -0.0056103351497889644 0.034445594922928577 0.034899496702494731 -0.16065897835143003 0.98639278069387115 0 0.98699403078974179 0.16075690711573865</Rotation>
+<Translation>0.050584665947736057 0.20908419291753005 0.011311191733485975</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki3_-2" uid="linki3_-2" entityUid="linki3_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99756405025982386 0.0014101072253829582 -0.069742219830087632 -0.069756473744128925 -0.020165472816378621 0.99736020979226792 0 0.99979566177479728 0.020214714845754864</Rotation>
+<Translation>-0.050346032506747247 0.20299930846307823 0.0064124522942839929</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki2_-1" uid="linki2_-1" entityUid="linki2_*:*Varsayilan">
+<Transform>
+<Rotation>0.23155626172535571 -0.74849669616565095 0.62139713025156784 0.21065327858342295 0.66218125133324079 0.71912529270273773 -0.94974043500202376 -0.035618621700575143 0.31100549819949797</Rotation>
+<Translation>0.12331623989285226 0.058666380680211454 0.022717114335517111</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki2_-4" uid="linki2_-4" entityUid="linki2_*:*Varsayilan">
+<Transform>
+<Rotation>-1 0 -1.1560086841518005e-16 -1.2490009516618213e-16 -0.21207510962018367 0.97725336933652318 0 0.97725336933652318 0.21207510962018367</Rotation>
+<Translation>0.016490633594052104 0.17844707543363744 0.010454179595701055</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki2_-5" uid="linki2_-5" entityUid="linki2_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909598 -0.0033841580011881858 0.034735030512588173 0.034899496702494689 -0.096909605671448545 0.99468113154845605 0 0.99528743376133677 0.096968676369086626</Rotation>
+<Translation>0.049345760131623256 0.17360657217363906 0.0052685538286274787</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki3_-4" uid="linki3_-4" entityUid="linki3_*:*Varsayilan">
+<Transform>
+<Rotation>-1 0 -1.1707038837866786e-16 -1.2246110037059371e-16 -0.11625210166604846 0.99321973845580969 0 0.99321973845580969 0.11625210166604852</Rotation>
+<Translation>0.016490633594052107 0.2142674541295474 0.014256271737684028</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki4_-4" uid="linki4_-4" entityUid="linki4_*:*Varsayilan">
+<Transform>
+<Rotation>-0.99939082701909565 0.00092345603848873305 -0.034887277036664659 -0.034899496702502898 -0.026444321013790524 0.99904090157311953 3.2235910133458974e-16 0.99964986125896327 0.026460439998900707</Rotation>
+<Translation>-0.01819202757046557 0.24033699106779571 0.0098701823344172143</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="linki4_-2" uid="linki4_-2" entityUid="linki4_*:*Varsayilan">
+<Transform>
+<Rotation>0.23155626172535596 -0.81706534396279018 0.52800181945779856 0.21065327858342281 0.57198861982667415 0.79275104226410897 -0.94974043500202365 -0.072341153458758981 0.3045650400791643</Rotation>
+<Translation>0.13931099165921845 0.083536751567799522 0.032133066066878227</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Distance name="Uzaklik3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-6</Uid>
+</InstancePath>
+<Position>-0.010250000000000002 0 -0.036999983691616056</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.0038944569356475986 -0.039888384339007613 -0.0085059841764998055</Position>
+<Axis>-0.99939082701909598 0.034899496702496598 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-6</Uid>
+</InstancePath>
+<Position>0.010250000000000002 0.0059999999999999975 -0.036999983691616042</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.024881664303048612 -0.039155494908255178 0.0064940158235001948</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Çakisik4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.044749048188937893 0.011568766639769024 -0.014999999999999999</Position>
+<Axis>0.034899496702496598 0.99939082701909587 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-6</Uid>
+</InstancePath>
+<Position>0.022000000000000016 0.0099999999999999967 -0.016999983691616039</Position>
+<Axis>-1.0408340855860843e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki4_-1</Uid>
+</InstancePath>
+<Position>-0.011000000000000003 0 -0.034999999999999976</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-1</Uid>
+</InstancePath>
+<Position>-0.0065000000000000058 1.7369228310498697e-07 -0.0039993456447900699</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-1</Uid>
+</InstancePath>
+<Position>-0.0095000000000000015 1.7369228310498697e-07 -0.0039993456447900422</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki4_-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000002 -0.0090000000000000011 -0.045000000000000012</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-9</Uid>
+</InstancePath>
+<Position>0.010250000000000002 0.0059999999999999967 -0.036999983691616029</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.11026716348376583 -0.04652965939467938 0.0064992929465411565</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-9</Uid>
+</InstancePath>
+<Position>-0.010250000000000009 0 -0.036999983691616029</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.089318318428309521 -0.045064773446052669 -0.0085007070534588412</Position>
+<Axis>-0.99756405025982398 -0.069756473744128827 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Çakisik16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.083954893628304883 0.0054323686553690576 -0.014999999999999999</Position>
+<Axis>-0.069756473744128841 0.99756405025982398 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-9</Uid>
+</InstancePath>
+<Position>0.022000000000000006 0.0099999999999999985 -0.016999983691616025</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-2</Uid>
+</InstancePath>
+<Position>-0.0064999999999999988 1.7369228310758905e-07 -0.0039993456447901254</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki4_-3</Uid>
+</InstancePath>
+<Position>-0.011000000000000003 0 -0.034999999999999976</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-2</Uid>
+</InstancePath>
+<Position>-0.0095000000000000015 1.7369228310672169e-07 -0.0039993456447900977</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki4_-3</Uid>
+</InstancePath>
+<Position>-0.0099999999999999915 -0.0089999999999999976 -0.044999999999999984</Position>
+<Axis>0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki1_-8</Uid>
+</InstancePath>
+<Position>-0.0065000000000000058 1.7369228310498697e-07 -0.0039993456447900977</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-1</Uid>
+</InstancePath>
+<Position>-0.011000000000000006 0 -0.045000000000000012</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-8</Uid>
+</InstancePath>
+<Position>-0.009500000000000005 1.7369228311192586e-07 -0.0039993456447900838</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-1</Uid>
+</InstancePath>
+<Position>-0.0099999999999999985 -0.009000000000000008 -0.044999999999999998</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki4_-2</Uid>
+</InstancePath>
+<Position>-0.010999999999999999 0 -0.034999999999999962</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-1</Uid>
+</InstancePath>
+<Position>-0.0065000000000000023 1.7369228310498697e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-1</Uid>
+</InstancePath>
+<Position>-0.009499999999999998 1.7369228309804807e-07 -0.0039993456447900838</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki4_-2</Uid>
+</InstancePath>
+<Position>-0.009999999999999995 -0.0089999999999999941 -0.044999999999999971</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki1_-9</Uid>
+</InstancePath>
+<Position>-0.0065000000000000127 1.7369228310758905e-07 -0.0039993456447900699</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-2</Uid>
+</InstancePath>
+<Position>-0.010999999999999996 0 -0.044999999999999984</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-9</Uid>
+</InstancePath>
+<Position>-0.0095000000000000154 1.7369228310769747e-07 -0.0039993456447900699</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-2</Uid>
+</InstancePath>
+<Position>-0.009999999999999995 -0.0089999999999999941 -0.044999999999999971</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-2</Uid>
+</InstancePath>
+<Position>-0.011000000000000003 0 -0.040000000000000036</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-2</Uid>
+</InstancePath>
+<Position>-0.0064999999999999988 1.7369228310845641e-07 -0.0039993456447900699</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-2</Uid>
+</InstancePath>
+<Position>-0.009499999999999998 1.7369228310498697e-07 -0.0039993456447900422</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-2</Uid>
+</InstancePath>
+<Position>-0.0099999999999999915 -0.0089999999999999976 -0.045000000000000012</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-10</Uid>
+</InstancePath>
+<Position>-0.010250000000000009 0 -0.036999983691616056</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.06108422201002045 -0.039015896921445178 -0.0085000345431233727</Position>
+<Axis>-0.99939082701909565 -0.034899496702504078 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik22">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-10</Uid>
+</InstancePath>
+<Position>0.010250000000000002 0.0059999999999999975 -0.036999983691616042</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.082071429377421456 -0.039748786352197765 0.006499965456876625</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Çakisik23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.071119264193043624 0.010664148898582582 -0.014999999999999999</Position>
+<Axis>-0.034899496702504071 0.99939082701909565 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-10</Uid>
+</InstancePath>
+<Position>0.022000000000000016 0.0099999999999999985 -0.016999983691616039</Position>
+<Axis>-1.0408340855860843e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Uzaklik23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-11</Uid>
+</InstancePath>
+<Position>-0.010250000000000009 0 -0.036999983691616042</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860845e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.032481724810572869 -0.033953015098925135 0.0064998520942738287</Position>
+<Axis>-1 -1.3344026738283133e-16 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Uzaklik24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.053481724810572867 -0.033953015098925135 0.0064998520942738287</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-11</Uid>
+</InstancePath>
+<Position>0.010249999999999999 0.0059999999999999975 -0.036999983691616042</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Çakisik26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.057949951164798452 0.016046984901074868 -0.014999999999999999</Position>
+<Axis>-1.3344026738283133e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-11</Uid>
+</InstancePath>
+<Position>0.022000000000000013 0.0099999999999999985 -0.016999983691616039</Position>
+<Axis>-1.0408340855860847e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki1_-10</Uid>
+</InstancePath>
+<Position>-0.0065000000000000075 1.7369228310769747e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-3</Uid>
+</InstancePath>
+<Position>-0.011000000000000006 0 -0.044999999999999984</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-3</Uid>
+</InstancePath>
+<Position>0.01 -0.009000000000000008 -0.080059521342733184</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-10</Uid>
+</InstancePath>
+<Position>0.009499999999999998 0 -0.0040000000000000036</Position>
+<Axis>1.0000000000000002 0 1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki1_-11</Uid>
+</InstancePath>
+<Position>-0.0065000000000000058 1.7369228310769747e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860845e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-4</Uid>
+</InstancePath>
+<Position>-0.011000000000000006 0 -0.045000000000000012</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-4</Uid>
+</InstancePath>
+<Position>0.01 -0.0089999999999999872 -0.080059521342733225</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-11</Uid>
+</InstancePath>
+<Position>0.009499999999999998 0 -0.0040000000000000036</Position>
+<Axis>1.0000000000000002 0 1.0408340855860845e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki1_-6</Uid>
+</InstancePath>
+<Position>-0.0064999999999999988 1.7369228310769747e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 -1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-5</Uid>
+</InstancePath>
+<Position>-0.01100000000000001 0 -0.045000000000000012</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-6</Uid>
+</InstancePath>
+<Position>0.0095000000000000084 0 -0.0040000000000000036</Position>
+<Axis>1.0000000000000002 0 1.0408340855860843e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-5</Uid>
+</InstancePath>
+<Position>0.010000000000000002 -0.0089999999999999959 -0.080059521342733211</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli22">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-3</Uid>
+</InstancePath>
+<Position>-0.0065000000000000023 1.7369228310845641e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-3</Uid>
+</InstancePath>
+<Position>-0.011000000000000006 0 -0.03999999999999998</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik27">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-3</Uid>
+</InstancePath>
+<Position>0.010000000000000002 -0.0089999999999999976 -0.080059521342733198</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-3</Uid>
+</InstancePath>
+<Position>0.0094999999999999998 -9.5134555441744872e-10 -0.0039999976216353039</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli23">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-4</Uid>
+</InstancePath>
+<Position>-0.0065000000000000058 1.7369228310498697e-07 -0.0039993456447900977</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-4</Uid>
+</InstancePath>
+<Position>-0.010999999999999999 0 -0.040000000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik28">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-4</Uid>
+</InstancePath>
+<Position>0.0094999999999999946 -9.5134555441744872e-10 -0.0039999976216353039</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-4</Uid>
+</InstancePath>
+<Position>0.010000000000000005 -0.0090000000000000045 -0.080059521342733225</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli24">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-3</Uid>
+</InstancePath>
+<Position>-0.0065000000000000032 1.7369228310845641e-07 -0.0039993456447900977</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki4_-4</Uid>
+</InstancePath>
+<Position>-0.011000000000000005 0 -0.034999999999999976</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki4_-4</Uid>
+</InstancePath>
+<Position>0.010000000000000002 -0.0089999999999999976 -0.080059521342733225</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-3</Uid>
+</InstancePath>
+<Position>0.009499999999999998 -9.5134555268272525e-10 -0.0039999976216353039</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli25">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-4</Uid>
+</InstancePath>
+<Position>-0.0064999999999999988 1.7369228310498697e-07 -0.0039993456447900699</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki4_-5</Uid>
+</InstancePath>
+<Position>-0.011000000000000003 0 -0.035000000000000003</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki4_-5</Uid>
+</InstancePath>
+<Position>0.010000000000000002 -0.0089999999999999976 -0.080059521342733225</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-4</Uid>
+</InstancePath>
+<Position>0.009499999999999998 -9.5134555268272525e-10 -0.0039999976216353039</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli27">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki3_-1</Uid>
+</InstancePath>
+<Position>-0.011000000000000003 0 -0.040000000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linki2_-5</Uid>
+</InstancePath>
+<Position>-0.0065000000000000058 1.7369228310498697e-07 -0.0039993456447900977</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik31">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki2_-5</Uid>
+</InstancePath>
+<Position>-0.0095000000000000084 1.7369228310498697e-07 -0.0039993456447900977</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki3_-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000002 -0.0089999999999999976 -0.044999999999999957</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Es Merkezli28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.014674523444302326 -0.041567158838484233 -0.00094783872644387771</Position>
+<Axis>-0.19776944698048021 -0.98024856329455301 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>basLinki-1</Uid>
+</InstancePath>
+<Position>0 0 0.039</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Uzaklik32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>basLinki-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ElAya-1</Uid>
+</InstancePath>
+<Position>-0.017438075321281311 -0.058352140209218376 0.10400000000000002</Position>
+<Axis>-0.19776944698048016 -0.9802485632945529 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Çakisik34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-8</Uid>
+</InstancePath>
+<Position>0.021999999999999999 0.010000000000000002 -0.016999983691616039</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>basLinki-1</Uid>
+</InstancePath>
+<Position>0.04465318713389145 -0.014500000000000006 0.039</Position>
+<Axis>1.0000000000000002 -1.9428902930940239e-16 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik35">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-8</Uid>
+</InstancePath>
+<Position>0.010249999999999995 0.0059999999999999984 -0.036999983691616049</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>basLinki-1</Uid>
+</InstancePath>
+<Position>0.0046531871338914288 0.009361021691689262 0.0060903390775441102</Position>
+<Axis>0 -0.25228732751097904 0.96765236752532591</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik36">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linki1_-8</Uid>
+</InstancePath>
+<Position>-0.010250000000000002 0 -0.036999983691616049</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>basLinki-1</Uid>
+</InstancePath>
+<Position>0.0046531871338914357 0.0056271692445267708 0.020411594116918938</Position>
+<Axis>1.9428902930940239e-16 -0.96765236752532569 -0.25228732751097899</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="ElAya" uid="ElAya*:*Varsayilan" version="2131">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ElAya.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.39534628934359495</Mass>
+<CenterOfMass>-0.064246367153270728 -0.10243772281227362 -0.0011028089815020284</CenterOfMass>
+<Inertia>0.0021054570524944223 0.00036422420845981247 0.0023834317539277259 3.0151441515396119e-05 1.5306151024391046e-06 2.9031462776163321e-05</Inertia>
+</MassProperties>
+<GeometryFile name="ElAya_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.79607843137254897" g="0.82352941176470584" b="0.93725490196078431" a="1"/>
+<Diffuse r="0.79607843137254897" g="0.82352941176470584" b="0.93725490196078431" a="1"/>
+<Specular r="0.39803921568627448" g="0.41176470588235292" b="0.46862745098039216" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="basLinki" uid="basLinki*:*Varsayilan" version="904">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="basLinki.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.032424607900080789</Mass>
+<CenterOfMass>0.011185271406817635 -0.0021699513380878787 0.020679519009740376</CenterOfMass>
+<Inertia>6.1469546904976864e-06 1.1412128910608449e-05 1.007791110124193e-05 -3.2111142968774914e-09 7.6027795318301271e-07 1.0785955384673325e-06</Inertia>
+</MassProperties>
+<GeometryFile name="basLinki_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linki1_" uid="linki1_*:*Varsayilan" version="382">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linki1_.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0062821343451169116</Mass>
+<CenterOfMass>6.2298186335089413e-05 -0.00018637083847844652 -0.016202524391725127</CenterOfMass>
+<Inertia>8.6003065657819724e-07 9.0884969868713605e-07 5.6371070796406948e-07 -4.5750400604950406e-08 -4.8836681258850814e-09 -7.1101537278903415e-11</Inertia>
+</MassProperties>
+<GeometryFile name="linki1__Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linki2_" uid="linki2_*:*Varsayilan" version="726">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linki2_.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0092888807138470936</Mass>
+<CenterOfMass>0.00022192664212966712 4.3393585948891617e-05 -0.022345663986957</CenterOfMass>
+<Inertia>2.1025906027995169e-06 2.4082898085705048e-06 1.0993749116173442e-06 -1.0222608938744479e-07 3.0551563085340989e-08 9.1900692623528073e-11</Inertia>
+</MassProperties>
+<GeometryFile name="linki2__Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linki3_" uid="linki3_*:*Varsayilan" version="702">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linki3_.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0085049206668508601</Mass>
+<CenterOfMass>0.00024130826609984317 0.00010508634910342728 -0.02038113608026761</CenterOfMass>
+<Inertia>1.6107907614240346e-06 1.8742720841941003e-06 9.8805761980120784e-07 -8.1424916251596965e-08 2.6400811829994445e-08 2.1772935785201655e-10</Inertia>
+</MassProperties>
+<GeometryFile name="linki3__Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linki4_" uid="linki4_*:*Varsayilan" version="723">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linki4_.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0094480959122381081</Mass>
+<CenterOfMass>0.00018166207903572433 0.0005773789233947807 -0.016644081562614661</CenterOfMass>
+<Inertia>1.2213096655454213e-06 1.6496873816495357e-06 9.1112206633118729e-07 -8.1722063635401579e-08 3.0836607243261408e-08 1.0046893531512276e-09</Inertia>
+</MassProperties>
+<GeometryFile name="linki4__Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
